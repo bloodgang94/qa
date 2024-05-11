@@ -30,3 +30,7 @@ k6 - https://k6.io
 JMeter - https://jmeter.apache.org/
 
 Яндекс Танк - https://github.com/yandex/yandex-tank
+
+# Полезные ссылки 
+
+https://superqa.gitbook.io
