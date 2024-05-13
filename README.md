@@ -34,3 +34,14 @@ JMeter - https://jmeter.apache.org/
 # Полезные ссылки 
 
 https://superqa.gitbook.io
+
+# Срез зп 
+
+https://getmatch.ru/
+
+# Полезные каналы
+
+[@qa_mentors](https://t.me/qa_mentors ) - менторы 
+[@playwright](https://t.me/playwright)  - русскоязычный чат pw
+[@qa_jobs](https://t.me/qa_jobs) - вакансии 
+[@qa_automation ](https://t.me/qa_automation) - автоматизация
