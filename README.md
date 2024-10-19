@@ -20,6 +20,10 @@ Git. Базовый курс https://gb.ru/courses/1117
 https://roadmap.sh/qa
 
 # Автоматизация
+JS - https://stepik.org/course/2223/promo
+
+TS - https://code-basics.com/ru/languages/typescript
+
 Playwright - https://playwright.dev/docs/intro
 
 Selenium - https://www.selenium.dev/
